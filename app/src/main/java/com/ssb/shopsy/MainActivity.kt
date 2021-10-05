@@ -3,13 +3,10 @@ package com.ssb.shopsy
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
-import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.drawerlayout.widget.DrawerLayout
 import com.google.android.material.navigation.NavigationView
-import com.arlib.floatingsearchview.FloatingSearchView
-import com.arlib.floatingsearchview.FloatingSearchView.OnQueryChangeListener
 
 
 class MainActivity : AppCompatActivity() {

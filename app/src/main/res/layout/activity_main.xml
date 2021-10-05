@@ -8,11 +8,7 @@
     tools:context=".MainActivity"
     android:background="@color/white"
     tools:openDrawer="start">
-    <FrameLayout
-        android:id="@+id/fragment_container"
 
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
     <com.google.android.material.navigation.NavigationView
         android:layout_width="wrap_content"
         android:id="@+id/navView"
@@ -20,10 +16,10 @@
         app:menu="@menu/nav_menu"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"/>
+
 <LinearLayout
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="@color/purple_200">
+    android:layout_height="wrap_content">
 
     <com.arlib.floatingsearchview.FloatingSearchView
         android:id="@+id/floating_search_view"
@@ -34,6 +30,7 @@
         app:floatingSearch_showSearchKey="false"
         android:background="@color/purple_200"
         app:floatingSearch_close_search_on_keyboard_dismiss="true"/>
+
 </LinearLayout>
 
 </androidx.drawerlayout.widget.DrawerLayout>
