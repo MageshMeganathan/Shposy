@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopsy</string>
+    <string name="mahesh_kumar">Mahesh Kumar</string>
+    <string name="welcome">Welcome,</string>
+    <string name="home">Home</string>
+    <string name="all_categories">All Categories</string>
+    <string name="offer_zone">Offer Zone</string>
+    <string name="sell_on_flipkart">Sell On Flipkart</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My Order</string>
+    <string name="logout">LogOut</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_account">My Account</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="content_description_notification">Content Description Notification</string>
+    <string name="notification">Notification</string>
+    <string name="cart">Cart</string>
+    <string name="content_description_cart">Content Description Cart</string>
+</resources>
