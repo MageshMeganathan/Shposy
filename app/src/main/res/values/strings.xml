@@ -13,10 +13,10 @@
     <string name="my_cart">My Cart</string>
     <string name="my_wishlist">My Wishlist</string>
     <string name="my_account">My Account</string>
-    <string name="open">open</string>
-    <string name="close">close</string>
     <string name="content_description_notification">Content Description Notification</string>
     <string name="notification">Notification</string>
     <string name="cart">Cart</string>
     <string name="content_description_cart">Content Description Cart</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
 </resources>
